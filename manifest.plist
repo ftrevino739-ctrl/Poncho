@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://ipa.ipasign.cc/download/9142de48b2e4</string>
+					<string>https://github.com/ftrevino739-ctrl/Poncho/releases/download/Lamas/Lamas.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>José Andrés ❤️</string>
+				<string>Lamas</string>
 			</dict>
 		</dict>
 	</array>
