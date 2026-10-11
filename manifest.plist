@@ -21,7 +21,8 @@
 					<true/>
 					<key>url</key>
 					<!-- Pon tu usuario y el nombre de tu repositorio aquí -->
-					<string>https://tu-usuario.github.io/tu-repo/icono-57.png</string>
+					<string>https://raw.githubusercontent.com/ftrevino739-ctrl/Poncho/main/IMG_6267.png
+</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,19 +30,20 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://tu-usuario.github.io/tu-repo/icono-512.png</string>
+					<string>https://raw.githubusercontent.com/ftrevino739-ctrl/Poncho/main/IMG_6267.png
+</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tuapp.identifier</string>
+				<string>com.jose.poncho</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Nombre De Tu App</string>
+				<string>José Andrés ❤️</string>
 			</dict>
 		</dict>
 	</array>
